@@ -7,4 +7,5 @@ public class Persona
    private Ciudad ciudadResidencia;
 {
    private Fecha fechaNac;
+   private String apellido;
 }
