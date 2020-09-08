@@ -1,4 +1,5 @@
-public class Fecha
-{
+public class Fecha {
+
+  private int dia;//Linea de Foncho
 
 }
